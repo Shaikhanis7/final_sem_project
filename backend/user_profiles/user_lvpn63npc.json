@@ -1,0 +1,78 @@
+{
+  "user_id": "user_lvpn63npc",
+  "name": null,
+  "age": null,
+  "location": null,
+  "job_profession": null,
+  "interests": [],
+  "mental_health_goals": [
+    "Improve mental wellbeing",
+    "Build healthy habits"
+  ],
+  "coping_strategies": [
+    "Deep breathing",
+    "Going for walks"
+  ],
+  "triggers": [
+    "Work stress",
+    "Lack of sleep"
+  ],
+  "preferences": {
+    "task_reminders": true,
+    "conversation_style": "empathetic"
+  },
+  "last_session": "2025-12-29 12:53:17.646294",
+  "emotional_state": "depression",
+  "conversation_memory": [
+    {
+      "timestamp": "2025-12-29T12:53:36.371048",
+      "role": "user",
+      "content": "how to ovecome this"
+    },
+    {
+      "timestamp": "2025-12-29T12:53:36.867765",
+      "role": "assistant",
+      "content": "It sounds like you're feeling overwhelmed and struggling to move forward. I'm here to listen and support you. It's completely normal to feel this way, and I want you to know that you're not alone.\n\nBefore we dive in, I just want to confirm that we don't have any existing wellness tasks to work with right now. We can start fresh and create a plan together that feels right for you.\n\nCan you tell me a bit more about what's been going on and what you're hoping to overcome? What's been on your mind l"
+    },
+    {
+      "timestamp": "2025-12-29T12:53:55.183426",
+      "role": "user",
+      "content": "any execises to do that"
+    },
+    {
+      "timestamp": "2025-12-29T12:53:55.692604",
+      "role": "assistant",
+      "content": "It sounds like you're looking for some exercises to do. That's a great place to start, and I'm here to support you. Before we dive into some exercise ideas, I just want to acknowledge that it's amazing you're taking the first step towards taking care of your physical and mental well-being.\n\nAs we start fresh, we don't have any existing wellness tasks to work with, but that's okay. We can create some new ones together. Would you like to explore some exercises that can help with stress, energy, or"
+    },
+    {
+      "timestamp": "2025-12-29T12:54:17.067428",
+      "role": "user",
+      "content": "yes"
+    },
+    {
+      "timestamp": "2025-12-29T12:54:17.569646",
+      "role": "assistant",
+      "content": "It's great to hear from you. Your simple \"yes\" tells me that you're acknowledging our conversation and willing to move forward. I'm here to support you, and I want you to know that you're not alone. We can work through anything together.\n\nBefore we begin, I just want to confirm that we have no new tasks to focus on right now. Our wellness journal is empty, and we're starting fresh. If you're feeling overwhelmed or unsure about where to start, we can take things one step at a time. What's on your"
+    },
+    {
+      "timestamp": "2025-12-29T12:54:29.852788",
+      "role": "user",
+      "content": "yes"
+    },
+    {
+      "timestamp": "2025-12-29T12:54:30.307244",
+      "role": "assistant",
+      "content": "It sounds like you're ready to move forward with your day. That's a great attitude to have. I'm here to support you, so feel free to share what's on your mind or what you'd like to talk about. We can work through anything together. How are you doing today, and is there anything specific you'd like to focus on?"
+    },
+    {
+      "timestamp": "2025-12-29T12:54:37.652011",
+      "role": "user",
+      "content": "update me"
+    },
+    {
+      "timestamp": "2025-12-29T12:54:38.214976",
+      "role": "assistant",
+      "content": "It's great that you're checking in with me. I'm here to support you in any way I can. It looks like we don't have any new tasks to work on today. Your wellness dashboard is clear and ready for whatever you'd like to focus on. If you're feeling stuck or unsure about where to start, we can brainstorm together to find something that feels manageable and fulfilling. How are you doing today?"
+    }
+  ]
+}

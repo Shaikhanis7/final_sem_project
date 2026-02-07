@@ -1,0 +1,38 @@
+{
+  "user_id": "user_3v19zf0kh",
+  "name": null,
+  "age": null,
+  "location": null,
+  "job_profession": null,
+  "interests": [],
+  "mental_health_goals": [
+    "Improve mental wellbeing",
+    "Build healthy habits"
+  ],
+  "coping_strategies": [
+    "Deep breathing",
+    "Going for walks"
+  ],
+  "triggers": [
+    "Work stress",
+    "Lack of sleep"
+  ],
+  "preferences": {
+    "task_reminders": true,
+    "conversation_style": "empathetic"
+  },
+  "last_session": null,
+  "emotional_state": null,
+  "conversation_memory": [
+    {
+      "timestamp": "2026-02-07T05:27:04.820582",
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "timestamp": "2026-02-07T05:27:05.329180",
+      "role": "assistant",
+      "content": "It's great to hear from you. How are you doing today? Is there anything on your mind that you'd like to talk about or any specific topic you'd like to explore? I'm here to listen and support you in any way I can."
+    }
+  ]
+}

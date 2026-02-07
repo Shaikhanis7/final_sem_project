@@ -1,0 +1,30 @@
+# -------------------- Python --------------------
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.env.*
+*.log
+agentic_workflow.log
+chroma_db/
+
+
+node_modules/
+dist/
+build/
+.cache/
+vite.svg
+
+# -------------------- VS Code --------------------
+.vscode/
+.idea/
+
+# -------------------- OS --------------------
+.DS_Store
+Thumbs.db
+
+# -------------------- Git --------------------
+.git/

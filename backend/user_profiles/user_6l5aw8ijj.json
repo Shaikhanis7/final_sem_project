@@ -1,0 +1,68 @@
+{
+  "user_id": "user_6l5aw8ijj",
+  "name": "Arun",
+  "age": null,
+  "location": null,
+  "job_profession": null,
+  "interests": [],
+  "mental_health_goals": [
+    "Improve mental wellbeing",
+    "Build healthy habits"
+  ],
+  "coping_strategies": [
+    "Deep breathing",
+    "Going for walks"
+  ],
+  "triggers": [
+    "Work stress",
+    "Lack of sleep"
+  ],
+  "preferences": {
+    "task_reminders": true,
+    "conversation_style": "empathetic"
+  },
+  "last_session": "2025-12-29 13:02:47.958319",
+  "emotional_state": "stress",
+  "conversation_memory": [
+    {
+      "timestamp": "2025-12-29T13:02:03.339667",
+      "role": "user",
+      "content": "hi "
+    },
+    {
+      "timestamp": "2025-12-29T13:02:03.913543",
+      "role": "assistant",
+      "content": "Hi there, it's great that you reached out. It sounds like you might be feeling a bit quiet today. That's completely okay, and I'm here to listen if you'd like to talk about what's on your mind. \n\nAs we start our conversation, I just wanted to check in on your wellness tasks. You have 0 incomplete tasks right now, which is a great starting point. We can work together to create some new tasks if you'd like, or we can focus on what's going on with you today.\n\nIs there anything specific that's been "
+    },
+    {
+      "timestamp": "2025-12-29T13:02:12.132182",
+      "role": "user",
+      "content": "my name is arun"
+    },
+    {
+      "timestamp": "2025-12-29T13:02:12.563833",
+      "role": "assistant",
+      "content": "Hello Arun, it's great to finally meet you. I'm here to listen and support you in any way I can. It takes a lot of courage to reach out and start a conversation about your mental health. Please know that you're not alone, and I'm here to help you through any challenges you may be facing. \n\nBefore we begin, I just want to check in and see how you're feeling today. Is there anything specific that's been on your mind lately, or is there something you'd like to talk about?"
+    },
+    {
+      "timestamp": "2025-12-29T13:02:47.956933",
+      "role": "user",
+      "content": "i am stressed"
+    },
+    {
+      "timestamp": "2025-12-29T13:02:48.534285",
+      "role": "assistant",
+      "content": "I'm so glad you reached out, Arun. I can sense that you're feeling really stressed, and I'm here to support you. Don't worry, you're not alone in this feeling. Many people experience stress, and there are ways to manage it.\n\nLet's work together to identify the sources of your stress and develop strategies to help you cope. We can explore stress-reducing techniques such as mindfulness, exercise, or relaxation exercises. These can be really helpful in calming your mind and body.\n\nAs we discussed e"
+    },
+    {
+      "timestamp": "2025-12-29T13:03:17.418859",
+      "role": "user",
+      "content": "i need to leqrn c++"
+    },
+    {
+      "timestamp": "2025-12-29T13:03:18.143504",
+      "role": "assistant",
+      "content": "Arun, it's completely normal to feel motivated to learn something new, especially when it comes to a programming language like C++. It's great that you're taking the first step towards acquiring a new skill. Learning C++ can be challenging, but with persistence and the right resources, you can achieve your goals.\n\nBefore we dive into the learning process, I just want to check in with you. Are you feeling any anxiety or pressure to learn C++ quickly? It's essential to remember that learning is a "
+    }
+  ]
+}
