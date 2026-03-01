@@ -1,0 +1,29 @@
+{
+  "user_id": "db_user_1",
+  "name": "anis",
+  "age": null,
+  "location": null,
+  "job_profession": null,
+  "interests": [],
+  "mental_health_goals": [
+    "Improve mental wellbeing",
+    "Build healthy habits"
+  ],
+  "goals": [],
+  "coping_strategies": [
+    "Deep breathing",
+    "Going for walks"
+  ],
+  "triggers": [
+    "Work stress",
+    "Lack of sleep"
+  ],
+  "preferences": {},
+  "last_session": "2026-03-01 00:50:42.260882",
+  "emotional_state": null,
+  "emotional_state_str": "",
+  "conversation_memory": [],
+  "progress_metrics": {
+    "wellness_score": 50.0
+  }
+}

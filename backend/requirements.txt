@@ -13,3 +13,4 @@ sentence-transformers
 python-multipart
 langchain-text-splitters
 python-dotenv
+psycopg2
