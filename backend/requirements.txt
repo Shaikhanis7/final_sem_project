@@ -1,16 +1,60 @@
+# ── Core API ─────────────────────────────────────────────────
 fastapi
 uvicorn[standard]
 pydantic
+python-multipart
+python-dotenv
+
+# ── LangChain / LangGraph ecosystem ──────────────────────────
 langchain
 langchain-core
 langchain-community
 langchain-groq
 langchain-huggingface
+langchain-openai
+langchain-text-splitters
 langgraph
 trustcall
+
+# ── Vector store & embeddings ─────────────────────────────────
 chromadb
 sentence-transformers
-python-multipart
-langchain-text-splitters
-python-dotenv
-psycopg2
+
+# ── Database ──────────────────────────────────────────────────
+sqlalchemy
+psycopg2-binary       # use psycopg2-binary (not bare psycopg2) – avoids compile errors
+aiosqlite             # async SQLite for LangGraph checkpointing
+
+# ── Multilingual translation (IndicTrans2) ────────────────────
+torch
+transformers
+accelerate            # speeds up model loading on GPU/CPU
+sentencepiece         # required tokeniser for IndicTrans2
+sacremoses            # required by many HuggingFace tokenisers
+indic-nlp-library     # IndicProcessor dependency
+IndicTransToolkit     # ai4bharat IndicTrans2 post/pre-processing
+mosestokenizer        # used internally by IndicTransToolkit
+
+# ── Emotion detection (DeepFace) ──────────────────────────────
+deepface
+opencv-python-headless  # headless build – no display needed on server
+Pillow                  # image loading / preview generation
+tf-keras                # DeepFace backend (TensorFlow/Keras)
+tensorflow              # DeepFace backend
+
+# ── Data / numerics ──────────────────────────────────────────
+numpy
+pandas
+scipy
+
+# ── Security / auth helpers ───────────────────────────────────
+bcrypt
+passlib[bcrypt]       # optional – higher-level wrapper around bcrypt
+
+# ── Email ─────────────────────────────────────────────────────
+# (smtplib is stdlib – no pip install needed)
+
+# ── Dev / misc ────────────────────────────────────────────────
+httpx                 # async HTTP client used by some langchain integrations
+requests
+tqdm

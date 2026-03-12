@@ -1,0 +1,22 @@
+[
+  {
+    "id": "8b854ac9-bd6d-415d-a7b1-807882697b4c",
+    "user_id": "db_user_2",
+    "title": "Practice daily mindfulness",
+    "task": "Practice daily mindfulness",
+    "description": null,
+    "duration": null,
+    "category": "mindfulness",
+    "status": "not_started",
+    "solutions": [],
+    "time_to_complete": 10,
+    "created_at": "2026-03-02 11:23:29.827668",
+    "updated_at": "2026-03-02 11:23:29.827670",
+    "due_date": "2026-03-04 11:23:29.827326",
+    "completed_at": null,
+    "notes": null,
+    "priority": "medium",
+    "conversation_context": null,
+    "emotional_context": "neutral"
+  }
+]

@@ -1,6 +1,6 @@
 {
-  "user_id": "db_user_1",
-  "name": "anis",
+  "user_id": "db_user_3",
+  "name": "user",
   "age": null,
   "location": null,
   "job_profession": null,
@@ -19,7 +19,7 @@
     "Lack of sleep"
   ],
   "preferences": {},
-  "last_session": "2026-03-02 10:52:00.434113",
+  "last_session": "2026-03-02 12:16:02.424101",
   "emotional_state": null,
   "emotional_state_str": "",
   "conversation_memory": [],
